@@ -1,6 +1,3 @@
-# maokg
-
-
 ##  <br>Repo for comp graphics algorithms KPI course<br> **tasks variant № 21**
 - [**Lab №1**](https://github.com/tia337/maokg/tree/master/MAOKG_lab1)
 
