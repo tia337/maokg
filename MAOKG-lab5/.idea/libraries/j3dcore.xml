@@ -6,8 +6,6 @@
       <root url="jar://C:/Program Files/Java/Java3D/1.5.1/lib/ext/vecmath.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES>
-      <root url="file://$PROJECT_DIR$/src" />
-    </SOURCES>
+    <SOURCES />
   </library>
 </component>

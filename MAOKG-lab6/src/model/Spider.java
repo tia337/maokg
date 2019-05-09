@@ -1,4 +1,4 @@
-package model;
+package src.model;
 
 import javax.vecmath.*;
 import com.sun.j3d.utils.universe.*;
@@ -54,7 +54,7 @@ public class Spider extends JFrame{
         ObjectFile f = new ObjectFile(ObjectFile.RESIZE);
         Scene widowScene = null;
         try{
-            widowScene = f.load("C:\\Users\\ilyai\\Desktop\\maokg\\MAOKG-lab5\\resources\\black_widow.obj");
+            widowScene = f.load("C:\\Users\\ilyai\\Desktop\\maokg\\MAOKG-lab6\\resources\\black_widow.obj");
         }
         catch (Exception e){
             System.out.println("File loading failed:" + e);
