@@ -11,6 +11,10 @@
 
 - [**Lab №5**](https://github.com/tia337/maokg/tree/master/MAOKG_lab5)
 
+![Screenshots](https://github.com/tia337/maokg/blob/master/MAOKG_lab5/Capture.PNG)
+
 - [**Lab №6**](https://github.com/tia337/maokg/tree/master/MAOKG_lab6)
+
+![Screenshots](https://user-images.githubusercontent.com/14183373/37546620-53946a9c-2976-11e8-82d7-e335c6ed799c.png)
 
 
